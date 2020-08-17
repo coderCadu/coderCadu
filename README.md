@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi There 👋😄
 
-<!--
-**carlosedu13/carlosedu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+My name is Carlos Silva. I'm a developer and software engineer that is in love with the process of designing and developing complex websites and apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Find me online 🔎:
+
+- On Twitter: [@cadugraphys](https://twitter.com/cadugraphys)
+- On Instagram: [cadugraphys.py](https://instagram.com/cadugraphys.py)
+- On Linkedin: [in/cadugraphys](https://linkedin.com/in/cadugraphys)
+- On Facebook: [cadugraphys](https://www.facebook.com/cadugraphys.py)
+
+Feel free to contact me and mess around my profile! Thank you for beign here.
+
+---
+
+[![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=carlosedu13)](https://github.com/carlosedu13)
