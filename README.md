@@ -16,3 +16,4 @@ Feel free to contact me and mess around my profile! Thank you for beign here.
 ---
 
 [![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=carlosedu13)](https://github.com/carlosedu13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosedu13&layout=compact)](https://github.com/carlosedu13/github-readme-stats)
