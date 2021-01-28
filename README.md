@@ -15,4 +15,4 @@ Feel free to contact me and mess around my profile! Thank you for beign here.
 
 ---
 
-[![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=carlosedu13)](https://github.com/carlosedu13)
+[![Carlos Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=carlosedu13&theme=dark)](https://github.com/carlosedu13)
