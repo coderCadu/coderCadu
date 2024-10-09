@@ -5,7 +5,7 @@
 My name is Carlos Silva. I'm a software engineer who loves designing and developing complex websites and apps.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-cadugraphys-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cadugraphys/)](https://www.linkedin.com/in/cadugraphys/)
+[![Linkedin Badge](https://img.shields.io/badge/-codercadu-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codercadu/)](https://www.linkedin.com/in/codercadu/)
 [![Gmail Badge](https://img.shields.io/badge/-carlosedu.waldorf@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosedu.waldorf@gmail.com)](mailto:carlosedu.waldorf@gmail.com)
 
 My stack is adaptable to the workspace, but many times I use:
