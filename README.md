@@ -16,7 +16,7 @@ I've been in this way for 6 years. I started in a photography studio where I was
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [carlosedu.waldorf@gmail.com](mailto:carlosedu.waldorf@gmail.com)
 * 🚀  I'm currently working on [Hackclub](http://github.com/coderCadu/hackclub)
-* 🧠  I'm learning more about Kafka
+* 🧠  I'm learning more about System Design
 * 🤝  I'm open to collaborating on Javascript projects
 
 ### Skills
