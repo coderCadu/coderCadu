@@ -10,7 +10,7 @@ I've been in this way for 7 years. I started in a photography studio where I was
 - I created a website for a Kung Fu School, presenting the school, the grades, and the teachers. It increased site traffic by 30% and became the go-to place for students to check available classes and schedules.
 - I worked with my team on a project to make a scraper with .NET where I used SQL Server, C#, Razor Syntax, and Bootstrap for large Brazilian companies like Cielo and Sky RPA, reducing service time by 15-30% depending on each company's processes.
 - I developed a solution to consolidate SMS messages into a single chat, displaying a company logo and verified badge for clients utilizing the Verified SMS (VSMS) service. This project, built in collaboration with Google, required integration with Google’s messaging app and became its main defense against scams and fraud on the platform.
-- I delivered the "Line Management" project allowing corporate users to allocate data and call time across accounts. This is a core product for the company’s B2B line management.
+- I delivered the "Line Management" project allowing corporate users to allocate data and call time across accounts. Thanks to its ease of use and clarity in managing lines, data, and voice, about 80% of managers migrated to the tool, making it a core product for the company’s B2B line management.
 - I contributed to the eSIM project, a solution enabling embedded SIM management within devices, which grew to over 10,000 daily activations.
 
 ---
