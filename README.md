@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Engineer with a Focus on NodeJS and JavaScript technologies
 -------------------------------------------------------------------
 
+![Experience](https://img.shields.io/badge/experience-7%2B%20years-blue) ![Based in São Paulo](https://img.shields.io/badge/based%20in-S%C3%A3o%20Paulo-fe7d37)
+
 I've been in this way for 7 years. I started in a photography studio where I was responsible for taking shots of people, doing the scenarios, and planning the website from elaborating the idea to some code.
 - I created a website for a Kung Fu School, where I presented the school, the grades, the teachers, and other aspects of the place.
 - I worked with my team on a project to make a scraper with .NET where I used SQL Server, C#, Razor Syntax, and Bootstrap for large Brazilian companies like Cielo and Sky RPA.
@@ -53,5 +55,7 @@ I've been in this way for 7 years. I started in a photography studio where I was
 
 
 ### Socials
+
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=coderCadu&show_icons=true&theme=radical)
 
 <p align="left"> <a href="https://www.github.com/coderCadu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/coderCadu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
