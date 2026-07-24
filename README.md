@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Engineer with a Focus on NodeJS and JavaScript technologies
 -------------------------------------------------------------------
 
-I've been in this way for 6 years. I started in a photography studio where I was responsible for taking shots of people, doing the scenarios, and planning the website from elaborating the idea to some code.
+I've been in this way for 7 years. I started in a photography studio where I was responsible for taking shots of people, doing the scenarios, and planning the website from elaborating the idea to some code.
 - I`ve created a website for a Kung Fu School, where I present the school, the grades, the teachers, and other aspects of the place.
 - I worked with my team on a project to make a scraper with .NET where I used SQL Server, C#, Razor Syntax, and Bootstrap for large Brazilian companies like Cielo and Sky RPA.
 - I developed a solution to consolidate SMS messages into a single chat, displaying a company logo and verified badge for clients utilizing the Verified SMS (VSMS) service. This project, built in collaboration with Google, required integration with Google’s messaging app.
