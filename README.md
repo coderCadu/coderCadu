@@ -7,7 +7,7 @@ Fullstack Engineer with a Focus on NodeJS and JavaScript technologies
 ![Experience](https://img.shields.io/badge/experience-7%2B%20years-blue) ![Based in São Paulo](https://img.shields.io/badge/based%20in-S%C3%A3o%20Paulo-fe7d37)
 
 I've been in this way for 7 years. I started in a photography studio where I was responsible for taking shots of people, doing the scenarios, and planning the website from elaborating the idea to some code.
-- I created a website for a Kung Fu School, where I presented the school, the grades, the teachers, and other aspects of the place.
+- I created a website for a Kung Fu School, presenting the school, the grades, and the teachers. It increased site traffic by 30% and became the go-to place for students to check available classes and schedules.
 - I worked with my team on a project to make a scraper with .NET where I used SQL Server, C#, Razor Syntax, and Bootstrap for large Brazilian companies like Cielo and Sky RPA.
 - I developed a solution to consolidate SMS messages into a single chat, displaying a company logo and verified badge for clients utilizing the Verified SMS (VSMS) service. This project, built in collaboration with Google, required integration with Google’s messaging app.
 - I delivered the "Line Management" project allowing corporate users to allocate data and call time across accounts. This is a core product for the company’s B2B line management.
